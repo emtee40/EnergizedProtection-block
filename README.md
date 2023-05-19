@@ -1,4 +1,4 @@
-![Cover](https://energized.pro/assets/images/block_cover.svg)
+<h2>The original repo is now defunct, including their website.</h2>
 
 <div align="center">
   <h1>Energized Protection - block ⚡</h1>
